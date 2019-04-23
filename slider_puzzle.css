@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+tr {
+  height: 40px;
+}
+
+td {
+  width: 40px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+td:hover {
+  border: 2px solid black;
+}

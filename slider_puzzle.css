@@ -15,3 +15,8 @@ td {
 td:hover {
   border: 2px solid black;
 }
+
+table {
+  border-collapse: separate;
+  border-spacing: 3px 3px;
+}
